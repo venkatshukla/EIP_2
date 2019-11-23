@@ -89,3 +89,6 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 ### Model.evalutate Result : 
 [0.01914663181611104, 0.994]
 
+### Strategy Used:
+Reduced number of parameters by reducing the kernel size.
+
